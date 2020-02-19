@@ -1,6 +1,8 @@
 
 # <div align="center">Monitoramento DVR Intelbras MHDX 1016</div>
 
+---- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral)
+
 ---
 #### Dashboard [***DVR MHDX 1016***](https://grafana.com/grafana/dashboards/10689)
 ![Dashboard CFTV - Grafana 01](https://user-images.githubusercontent.com/47629745/62641834-dd06a800-b91a-11e9-90b5-41ff0b8c035c.png)
