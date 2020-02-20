@@ -1,5 +1,5 @@
 
-# <div align="center">Monitoramento DVR Intelbras MHDX 1016</div>
+# <div align="center">Monitoramento DVR Intelbras </div>
 
 ---- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral) [Zabbix 4.0.x](https://github.com/GeorgeHPD/Monitoramento-DVR-Intelbras-Zabbix/tree/master/Template/Template%20Zabbix%204.0.x) 
 
