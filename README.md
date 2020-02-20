@@ -1,7 +1,16 @@
 
 # <div align="center">Monitoramento DVR Intelbras MHDX 1016</div>
 
----- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral)
+---- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral) [Zabbix 4.0.x](https://github.com/GeorgeHPD/Monitoramento-DVR-Intelbras-Zabbix/tree/master/Template/Template%20Zabbix%204.0.x) 
+
+    Descoberta de canais via LLD;
+    Descoberta do nome do canal; 
+    Descoberta da disponibilidade do canal;
+    Análise de tráfego de rede;
+    Disponibilidade SNMP.
+    Se faz necessário passar via macro {$SNMP_COMMUNITY} o nome da comunidade SNMP do equipamento.
+    
+    Obs: Funcionando perfeitamente no Zabbix 4.4.x
 
 ---
 #### Dashboard [***DVR MHDX 1016***](https://grafana.com/grafana/dashboards/10689)
