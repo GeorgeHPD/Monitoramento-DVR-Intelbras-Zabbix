@@ -528,7 +528,7 @@
             <macros/>
             <templates>
                 <template>
-                    <name>TEMPLATE-PING-ICMP</name>
+                    <name>Template Module ICMP Ping</name>
                 </template>
             </templates>
             <screens/>
