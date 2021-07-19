@@ -1,6 +1,8 @@
 
 # <div align="center">Monitoramento DVR Intelbras </div>
 
+---- Tabalhando em uma nova atualização do Projeto com grandes novidades.
+
 ---- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral) [Zabbix 4.0.x](https://github.com/GeorgeHPD/Monitoramento-DVR-Intelbras-Zabbix/tree/master/Template/Template%20Zabbix%204.0.x) 
 
     Descoberta de canais via LLD;
