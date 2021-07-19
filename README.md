@@ -1,7 +1,7 @@
 
 # <div align="center">Monitoramento DVR Intelbras </div>
 
----- Tabalhando em uma nova atualização do Projeto com grandes novidades.
+---Tabalhando em uma nova atualização do Projeto com grandes novidades. (18/07/2021)
 
 ---- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral) [Zabbix 4.0.x](https://github.com/GeorgeHPD/Monitoramento-DVR-Intelbras-Zabbix/tree/master/Template/Template%20Zabbix%204.0.x) 
 
