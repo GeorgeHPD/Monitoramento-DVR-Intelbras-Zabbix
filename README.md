@@ -1,7 +1,9 @@
 
 # <div align="center">Monitoramento DVR Intelbras </div>
 
----Tabalhando em uma nova atualização do Projeto com grandes novidades. (18/07/2021)
+---Tabalhando em uma nova atualização do Projeto com grandes novidades. (07/2022)
+
+Update para 6.0 LTS
 
 ---- Melhorias realizadas pelo [@everaldoscabral](https://github.com/everaldoscabral) [Zabbix 4.0.x](https://github.com/GeorgeHPD/Monitoramento-DVR-Intelbras-Zabbix/tree/master/Template/Template%20Zabbix%204.0.x) 
 
@@ -13,6 +15,13 @@
     Se faz necessário passar via macro {$SNMP_COMMUNITY} o nome da comunidade SNMP do equipamento.
     
     Obs: Funcionando perfeitamente no Zabbix 4.4.x
+    
+    
+    
+    
+    
+    
+    
 
 ---
 #### Dashboard [***DVR MHDX 1016***](https://grafana.com/grafana/dashboards/10689)
